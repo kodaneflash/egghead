@@ -8,8 +8,8 @@ import {Logo} from './src/components/logo'
 
 export default defineConfig({
   name: 'default',
-  title: 'egghead-next',
-  projectId: 'sb1i5dlc',
+  title: 'founderforgeregg',
+  projectId: '00c0but9',
   dataset: 'production',
   plugins: [deskTool({structure: deskStructure}), markdownSchema(), visionTool()],
   schema: {

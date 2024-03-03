@@ -21,13 +21,13 @@ e.g. \`$ SANITY_ENV=staging ./set_sanity_env\``
 
 const SANITY_ENV_VALUES = {
   staging: {
-    project_name: 'egghead-next-test',
-    project_id: 'junsargs',
+    project_name: 'founderforgeregg',
+    project_id: '00c0but9',
     dataset: 'production',
   },
   production: {
-    project_name: 'egghead-next',
-    project_id: 'sb1i5dlc',
+    project_name: 'founderforgeregg',
+    project_id: '00c0but9',
     dataset: 'production',
   },
 }
